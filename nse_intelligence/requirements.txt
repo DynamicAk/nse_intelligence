@@ -1,0 +1,35 @@
+# Core LLM frameworks
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-ollama==0.2.1
+llama-index==0.10.67
+llama-index-llms-ollama==0.3.4
+llama-index-embeddings-ollama==0.3.1
+llama-index-vector-stores-chroma==0.2.1
+
+# Vector store
+chromadb==0.5.23
+
+# MCP
+mcp==1.2.0
+fastmcp==0.4.1
+
+# Data ingestion
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+requests==2.32.3
+yfinance==0.2.48
+
+# UI
+streamlit==1.40.2
+gradio==5.9.1
+plotly==5.24.1
+
+# Scheduling
+apscheduler==3.10.4
+
+# Utils
+python-dotenv==1.0.1
+pydantic==2.10.3
+pandas==2.2.3
+loguru==0.7.3
